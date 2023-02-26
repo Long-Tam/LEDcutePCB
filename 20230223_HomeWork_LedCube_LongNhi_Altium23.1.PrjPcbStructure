@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=LedCubeSche.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=MotherSheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MotherSheet.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Cube.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Cube.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MotherSheet.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MotherSheet.SchDoc|Designator=Shift|SchDesignator=Shift|FileName=Shift.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Shift.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MotherSheet.SchDoc|Designator=Signal|SchDesignator=Signal|FileName=Signal.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Signal.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
