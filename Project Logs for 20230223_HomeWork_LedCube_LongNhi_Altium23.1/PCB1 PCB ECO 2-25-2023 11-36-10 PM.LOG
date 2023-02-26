@@ -1,0 +1,54 @@
+Added Pin To Net: NetName=50 Pin=IC7-1
+Added Pin To Net: NetName=51 Pin=IC7-2
+Added Pin To Net: NetName=52 Pin=IC7-3
+Added Pin To Net: NetName=53 Pin=IC7-4
+Added Pin To Net: NetName=54 Pin=IC7-5
+Added Pin To Net: NetName=55 Pin=IC7-6
+Added Pin To Net: NetName=56 Pin=IC7-7
+Added Pin To Net: NetName=GND Pin=IC7-8
+Added Pin To Net: NetName=NetIC7_9 Pin=IC7-9
+Added Pin To Net: NetName=+5 Pin=IC7-10
+Added Pin To Net: NetName=SHIFT Pin=IC7-11
+Added Pin To Net: NetName=LAT Pin=IC7-12
+Added Pin To Net: NetName=GND Pin=IC7-13
+Added Pin To Net: NetName=NetIC6_9 Pin=IC7-14
+Added Pin To Net: NetName=49 Pin=IC7-15
+Added Pin To Net: NetName=+5 Pin=IC7-16
+Added Pin To Net: NetName=58 Pin=IC8-1
+Added Pin To Net: NetName=59 Pin=IC8-2
+Added Pin To Net: NetName=60 Pin=IC8-3
+Added Pin To Net: NetName=61 Pin=IC8-4
+Added Pin To Net: NetName=62 Pin=IC8-5
+Added Pin To Net: NetName=63 Pin=IC8-6
+Added Pin To Net: NetName=64 Pin=IC8-7
+Added Pin To Net: NetName=GND Pin=IC8-8
+Added Pin To Net: NetName=NetIC8_9 Pin=IC8-9
+Added Pin To Net: NetName=+5 Pin=IC8-10
+Added Pin To Net: NetName=SHIFT Pin=IC8-11
+Added Pin To Net: NetName=LAT Pin=IC8-12
+Added Pin To Net: NetName=GND Pin=IC8-13
+Added Pin To Net: NetName=NetIC7_9 Pin=IC8-14
+Added Pin To Net: NetName=57 Pin=IC8-15
+Added Pin To Net: NetName=+5 Pin=IC8-16
+Added Pin To Net: NetName=66 Pin=IC9-1
+Added Pin To Net: NetName=67 Pin=IC9-2
+Added Pin To Net: NetName=68 Pin=IC9-3
+Added Pin To Net: NetName=69 Pin=IC9-4
+Added Pin To Net: NetName=70 Pin=IC9-5
+Added Pin To Net: NetName=71 Pin=IC9-6
+Added Pin To Net: NetName=72 Pin=IC9-7
+Added Pin To Net: NetName=GND Pin=IC9-8
+Added Pin To Net: NetName=+5 Pin=IC9-10
+Added Pin To Net: NetName=SHIFT Pin=IC9-11
+Added Pin To Net: NetName=LAT Pin=IC9-12
+Added Pin To Net: NetName=GND Pin=IC9-13
+Added Pin To Net: NetName=NetIC8_9 Pin=IC9-14
+Added Pin To Net: NetName=65 Pin=IC9-15
+Added Pin To Net: NetName=+5 Pin=IC9-16
+Added Member To Class: ClassName=Shift Member=Component IC7 74HC595
+Added Member To Class: ClassName=Shift Member=Component IC8 74HC595
+Added Member To Class: ClassName=Shift Member=Component IC9 74HC595
+Added Room: Name=Designator
+Added Room: Name=Power
+Added Room: Name=Shift
+Added Room: Name=Signal

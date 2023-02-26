@@ -1,0 +1,24 @@
+Added Component: Designator=IC?(74HC595)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://banlinhkien.com/74hc595-dip16-p6648401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/23121/STMICROELECTRONICS/74HC595.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://icdayroi.com/74hc595n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Output Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_8 Pin=IC?-8
+Added Pin To Net: NetName=+5 Pin=IC?-10
+Added Pin To Net: NetName=NetIC1_8 Pin=IC?-13
+Added Pin To Net: NetName=+5 Pin=IC?-16
+Added Member To Class: ClassName=Power Member=Component IC? 74HC595
+Added Room: Name=Designator
+Added Room: Name=Power
+Added Room: Name=Shift
+Added Room: Name=Signal

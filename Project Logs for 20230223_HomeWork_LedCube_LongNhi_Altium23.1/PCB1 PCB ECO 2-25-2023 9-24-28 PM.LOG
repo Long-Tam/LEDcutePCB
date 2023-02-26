@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=+5 Pin= 1-2
+Removed Pin From Net: NetName=G4 Pin=Q1-1
+Removed Pin From Net: NetName=+5 Pin=Q1-2
+Removed Pin From Net: NetName=G3 Pin=Q2-1
+Removed Pin From Net: NetName=+5 Pin=Q2-2
+Removed Pin From Net: NetName=+5 Pin=Q3-2
+Removed Pin From Net: NetName=G2 Pin=Q4-1
+Removed Pin From Net: NetName=+5 Pin=Q4-2
+Removed Pin From Net: NetName=+5 Pin=Q5-2
+Removed Pin From Net: NetName=G1 Pin=Q6-1
+Removed Pin From Net: NetName=+5 Pin=Q6-2
+Removed Pin From Net: NetName=+5 Pin=Q7-2
+Removed Member From Class: ClassName=Designator Member= 1
+Removed Member From Class: ClassName=Designator Member=Q1
+Removed Member From Class: ClassName=Designator Member=Q2
+Removed Member From Class: ClassName=Designator Member=Q3
+Removed Member From Class: ClassName=Designator Member=Q4
+Removed Member From Class: ClassName=Designator Member=Q5
+Removed Member From Class: ClassName=Designator Member=Q6
+Removed Member From Class: ClassName=Designator Member=Q7
+Added Component: Designator=1(QTO-92)
+Added Component: Designator=2(QTO-92)
+Added Component: Designator=3(QTO-92)
+Added Component: Designator=4(QTO-92)
+Added Component: Designator=5(QTO-92)
+Added Component: Designator=6(QTO-92)
+Added Component: Designator=7(QTO-92)
+Added Component: Designator=8(QTO-92)
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=G4 Pin=1-2
+Added Pin To Net: NetName=GND Pin=2-1
+Added Pin To Net: NetName=GND Pin=3-1
+Added Pin To Net: NetName=G3 Pin=3-2
+Added Pin To Net: NetName=GND Pin=4-1
+Added Pin To Net: NetName=GND Pin=5-1
+Added Pin To Net: NetName=G2 Pin=5-2
+Added Pin To Net: NetName=GND Pin=6-1
+Added Pin To Net: NetName=GND Pin=7-1
+Added Pin To Net: NetName=G1 Pin=7-2
+Added Pin To Net: NetName=GND Pin=8-1
+Added Pin To Net: NetName=Net1_3 Pin=1-3
+Added Pin To Net: NetName=Net1_3 Pin=R6-2
+Added Net: Name=Net1_3
+Added Pin To Net: NetName=Net2_2 Pin=2-2
+Added Pin To Net: NetName=Net2_2 Pin=R5-1
+Added Net: Name=Net2_2
+Added Pin To Net: NetName=Net2_3 Pin=2-3
+Added Pin To Net: NetName=Net2_3 Pin=R9-2
+Added Net: Name=Net2_3
+Added Pin To Net: NetName=Net3_3 Pin=3-3
+Added Pin To Net: NetName=Net3_3 Pin=R11-2
+Added Net: Name=Net3_3
+Added Pin To Net: NetName=Net4_2 Pin=4-2
+Added Pin To Net: NetName=Net4_2 Pin=R7-1
+Added Net: Name=Net4_2
+Added Pin To Net: NetName=Net4_3 Pin=4-3
+Added Pin To Net: NetName=Net4_3 Pin=R12-2
+Added Net: Name=Net4_3
+Added Pin To Net: NetName=Net5_3 Pin=5-3
+Added Pin To Net: NetName=Net5_3 Pin=R13-2
+Added Net: Name=Net5_3
+Added Pin To Net: NetName=Net6_2 Pin=6-2
+Added Pin To Net: NetName=Net6_2 Pin=R8-1
+Added Net: Name=Net6_2
+Added Pin To Net: NetName=Net6_3 Pin=6-3
+Added Pin To Net: NetName=Net6_3 Pin=R14-2
+Added Net: Name=Net6_3
+Added Pin To Net: NetName=Net7_3 Pin=7-3
+Added Pin To Net: NetName=Net7_3 Pin=R15-2
+Added Net: Name=Net7_3
+Added Pin To Net: NetName=Net8_2 Pin=8-2
+Added Pin To Net: NetName=Net8_2 Pin=R10-1
+Added Net: Name=Net8_2
+Added Pin To Net: NetName=Net8_3 Pin=8-3
+Added Pin To Net: NetName=Net8_3 Pin=R16-2
+Added Net: Name=Net8_3
+Added Member To Class: ClassName=Designator Member=Component 1 C1815
+Added Member To Class: ClassName=Designator Member=Component 2 C1815
+Added Member To Class: ClassName=Designator Member=Component 3 C1815
+Added Member To Class: ClassName=Designator Member=Component 4 C1815
+Added Member To Class: ClassName=Designator Member=Component 5 C1815
+Added Member To Class: ClassName=Designator Member=Component 6 C1815
+Added Member To Class: ClassName=Designator Member=Component 7 C1815
+Added Member To Class: ClassName=Designator Member=Component 8 C1815
+Added Room: Name=Designator
+Added Room: Name=Power
+Added Room: Name=Shift
+Added Room: Name=Signal

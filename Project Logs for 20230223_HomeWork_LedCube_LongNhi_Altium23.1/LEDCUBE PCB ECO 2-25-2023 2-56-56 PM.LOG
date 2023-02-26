@@ -1,0 +1,491 @@
+Added Component: Designator=BT1(HC-05)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.etechnophiles.com/wp-content/uploads/2020/10/HC-05-Datasheet-Download.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Hshop"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://hshop.vn/products/mach-thu-phat-bluetooth-hc-05-do-ra-chon-master"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://banlinhkien.com/module-bluetooth-hc05-p6647275.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://icdayroi.com/module-thu-phat-bluetooth-hc-05"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(74HC595)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://banlinhkien.com/74hc595-dip16-p6648401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/23121/STMICROELECTRONICS/74HC595.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://icdayroi.com/74hc595n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Output Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(74HC595)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://banlinhkien.com/74hc595-dip16-p6648401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/23121/STMICROELECTRONICS/74HC595.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://icdayroi.com/74hc595n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Output Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(74HC595)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://banlinhkien.com/74hc595-dip16-p6648401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/23121/STMICROELECTRONICS/74HC595.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://icdayroi.com/74hc595n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Output Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(74HC595)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://banlinhkien.com/74hc595-dip16-p6648401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/23121/STMICROELECTRONICS/74HC595.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://icdayroi.com/74hc595n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Output Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=IC5(74HC595)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://banlinhkien.com/74hc595-dip16-p6648401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/23121/STMICROELECTRONICS/74HC595.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://icdayroi.com/74hc595n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Output Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=IC6(74HC595)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://banlinhkien.com/74hc595-dip16-p6648401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/23121/STMICROELECTRONICS/74HC595.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://icdayroi.com/74hc595n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Output Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=IC7(74HC595)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://banlinhkien.com/74hc595-dip16-p6648401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/23121/STMICROELECTRONICS/74HC595.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://icdayroi.com/74hc595n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Output Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=IC8(74HC595)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://banlinhkien.com/74hc595-dip16-p6648401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/23121/STMICROELECTRONICS/74HC595.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://icdayroi.com/74hc595n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Output Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=IC9(74HC595)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://banlinhkien.com/74hc595-dip16-p6648401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/23121/STMICROELECTRONICS/74HC595.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ICDayroi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://icdayroi.com/74hc595n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Output Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=Mat1(LED_Matrix)
+Added Component: Designator=P1(DOMINO 2- 5mm)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(BluePill)
+Add component (AddParameter): Name = "Analog pins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://components101.com/microcontrollers/stm32f103c8t8-blue-pill-development-board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Hshop"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://hshop.vn/products/kit-ra-chon-stm32f103c8t6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Banlinhkien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://banlinhkien.com/kit-stm32f103c8t6-board-mini-p6649312.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CPU speed"; Value = "72MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digital IO/PWM"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EEPROM/SRAM(KB)"; Value = "-/20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flash"; Value = "64/128K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I2C"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating/input voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Processor"; Value = "STM32F103C9T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPI"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UART"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB Connector"; Value = "Micro"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=IC1-10
+Added Pin To Net: NetName=+5 Pin=IC1-16
+Added Pin To Net: NetName=+5 Pin=IC2-10
+Added Pin To Net: NetName=+5 Pin=IC2-16
+Added Pin To Net: NetName=+5 Pin=IC3-10
+Added Pin To Net: NetName=+5 Pin=IC3-16
+Added Pin To Net: NetName=+5 Pin=IC4-10
+Added Pin To Net: NetName=+5 Pin=IC4-16
+Added Pin To Net: NetName=+5 Pin=IC5-10
+Added Pin To Net: NetName=+5 Pin=IC5-16
+Added Pin To Net: NetName=+5 Pin=IC6-10
+Added Pin To Net: NetName=+5 Pin=IC6-16
+Added Pin To Net: NetName=+5 Pin=IC7-10
+Added Pin To Net: NetName=+5 Pin=IC7-16
+Added Pin To Net: NetName=+5 Pin=IC8-10
+Added Pin To Net: NetName=+5 Pin=IC8-16
+Added Pin To Net: NetName=+5 Pin=P1-1
+Added Pin To Net: NetName=+5 Pin=U1-38
+Added Net: Name=+5
+Added Pin To Net: NetName=1 Pin=Mat1-1
+Added Net: Name=1
+Add Net: Net with name "1" already exists
+Added Pin To Net: NetName=2 Pin=Mat1-2
+Added Net: Name=2
+Add Net: Net with name "2" already exists
+Added Pin To Net: NetName=3 Pin=Mat1-3
+Added Net: Name=3
+Add Net: Net with name "3" already exists
+Added Pin To Net: NetName=4 Pin=IC1-3
+Added Net: Name=4
+Add Net: Net with name "4" already exists
+Added Pin To Net: NetName=5 Pin=IC1-4
+Added Net: Name=5
+Add Net: Net with name "5" already exists
+Added Pin To Net: NetName=6 Pin=Mat1-6
+Added Net: Name=6
+Add Net: Net with name "6" already exists
+Added Pin To Net: NetName=7 Pin=IC1-6
+Added Net: Name=7
+Add Net: Net with name "7" already exists
+Added Pin To Net: NetName=8 Pin=IC1-7
+Added Net: Name=8
+Add Net: Net with name "8" already exists
+Added Pin To Net: NetName=9 Pin=IC2-15
+Added Net: Name=9
+Add Net: Net with name "9" already exists
+Added Pin To Net: NetName=10 Pin=IC2-1
+Added Net: Name=10
+Add Net: Net with name "10" already exists
+Added Pin To Net: NetName=11 Pin=Mat1-11
+Added Net: Name=11
+Add Net: Net with name "11" already exists
+Added Pin To Net: NetName=12 Pin=Mat1-12
+Added Net: Name=12
+Add Net: Net with name "12" already exists
+Added Pin To Net: NetName=13 Pin=Mat1-13
+Added Net: Name=13
+Add Net: Net with name "13" already exists
+Added Pin To Net: NetName=14 Pin=Mat1-14
+Added Net: Name=14
+Add Net: Net with name "14" already exists
+Added Pin To Net: NetName=15 Pin=IC2-6
+Added Net: Name=15
+Add Net: Net with name "15" already exists
+Added Pin To Net: NetName=16 Pin=IC2-7
+Added Net: Name=16
+Add Net: Net with name "16" already exists
+Added Pin To Net: NetName=17 Pin=Mat1-17
+Added Net: Name=17
+Add Net: Net with name "17" already exists
+Added Pin To Net: NetName=18 Pin=IC3-1
+Added Net: Name=18
+Add Net: Net with name "18" already exists
+Added Pin To Net: NetName=19 Pin=IC3-2
+Added Net: Name=19
+Add Net: Net with name "19" already exists
+Added Pin To Net: NetName=20 Pin=IC3-3
+Added Net: Name=20
+Add Net: Net with name "20" already exists
+Added Pin To Net: NetName=21 Pin=Mat1-21
+Added Net: Name=21
+Add Net: Net with name "21" already exists
+Added Pin To Net: NetName=22 Pin=IC3-5
+Added Net: Name=22
+Add Net: Net with name "22" already exists
+Added Pin To Net: NetName=23 Pin=Mat1-23
+Added Net: Name=23
+Add Net: Net with name "23" already exists
+Added Pin To Net: NetName=24 Pin=Mat1-24
+Added Net: Name=24
+Add Net: Net with name "24" already exists
+Added Pin To Net: NetName=25 Pin=Mat1-25
+Added Net: Name=25
+Add Net: Net with name "25" already exists
+Added Pin To Net: NetName=26 Pin=IC4-1
+Added Net: Name=26
+Add Net: Net with name "26" already exists
+Added Pin To Net: NetName=27 Pin=Mat1-27
+Added Net: Name=27
+Add Net: Net with name "27" already exists
+Added Pin To Net: NetName=28 Pin=IC4-3
+Added Net: Name=28
+Add Net: Net with name "28" already exists
+Added Pin To Net: NetName=29 Pin=Mat1-29
+Added Net: Name=29
+Add Net: Net with name "29" already exists
+Added Pin To Net: NetName=30 Pin=Mat1-30
+Added Net: Name=30
+Add Net: Net with name "30" already exists
+Added Pin To Net: NetName=31 Pin=IC4-6
+Added Net: Name=31
+Add Net: Net with name "31" already exists
+Added Pin To Net: NetName=32 Pin=Mat1-32
+Added Net: Name=32
+Add Net: Net with name "32" already exists
+Added Pin To Net: NetName=33 Pin=Mat1-33
+Added Pin To Net: NetName=33 Pin=Mat1-33
+Added Net: Name=33
+Add Net: Net with name "33" already exists
+Added Pin To Net: NetName=34 Pin=Mat1-34
+Added Net: Name=34
+Add Net: Net with name "34" already exists
+Added Pin To Net: NetName=35 Pin=Mat1-35
+Added Net: Name=35
+Add Net: Net with name "35" already exists
+Added Pin To Net: NetName=36 Pin=Mat1-36
+Added Net: Name=36
+Add Net: Net with name "36" already exists
+Added Pin To Net: NetName=37 Pin=IC5-4
+Added Net: Name=37
+Add Net: Net with name "37" already exists
+Added Pin To Net: NetName=38 Pin=Mat1-38
+Added Net: Name=38
+Add Net: Net with name "38" already exists
+Added Pin To Net: NetName=39 Pin=IC5-6
+Added Net: Name=39
+Add Net: Net with name "39" already exists
+Added Pin To Net: NetName=40 Pin=Mat1-40
+Added Net: Name=40
+Add Net: Net with name "40" already exists
+Added Pin To Net: NetName=41 Pin=Mat1-41
+Added Pin To Net: NetName=41 Pin=Mat1-41
+Added Net: Name=41
+Add Net: Net with name "41" already exists
+Added Pin To Net: NetName=42 Pin=Mat1-42
+Added Net: Name=42
+Add Net: Net with name "42" already exists
+Added Pin To Net: NetName=43 Pin=IC6-2
+Added Net: Name=43
+Add Net: Net with name "43" already exists
+Added Pin To Net: NetName=44 Pin=Mat1-44
+Added Net: Name=44
+Add Net: Net with name "44" already exists
+Added Pin To Net: NetName=45 Pin=IC6-4
+Added Net: Name=45
+Add Net: Net with name "45" already exists
+Added Pin To Net: NetName=46 Pin=IC6-5
+Added Net: Name=46
+Add Net: Net with name "46" already exists
+Added Pin To Net: NetName=47 Pin=Mat1-47
+Added Net: Name=47
+Add Net: Net with name "47" already exists
+Added Pin To Net: NetName=48 Pin=Mat1-48
+Added Net: Name=48
+Add Net: Net with name "48" already exists
+Added Pin To Net: NetName=49 Pin=IC7-15
+Added Net: Name=49
+Add Net: Net with name "49" already exists
+Added Pin To Net: NetName=50 Pin=IC7-1
+Added Net: Name=50
+Add Net: Net with name "50" already exists
+Added Pin To Net: NetName=51 Pin=Mat1-51
+Added Net: Name=51
+Add Net: Net with name "51" already exists
+Added Pin To Net: NetName=52 Pin=Mat1-52
+Added Net: Name=52
+Add Net: Net with name "52" already exists
+Added Pin To Net: NetName=53 Pin=Mat1-53
+Added Net: Name=53
+Add Net: Net with name "53" already exists
+Added Pin To Net: NetName=54 Pin=IC7-5
+Added Net: Name=54
+Add Net: Net with name "54" already exists
+Added Pin To Net: NetName=55 Pin=Mat1-55
+Added Net: Name=55
+Add Net: Net with name "55" already exists
+Added Pin To Net: NetName=56 Pin=Mat1-56
+Added Net: Name=56
+Add Net: Net with name "56" already exists
+Added Pin To Net: NetName=57 Pin=Mat1-57
+Added Net: Name=57
+Add Net: Net with name "57" already exists
+Added Pin To Net: NetName=58 Pin=Mat1-58
+Added Net: Name=58
+Add Net: Net with name "58" already exists
+Added Pin To Net: NetName=59 Pin=Mat1-59
+Added Net: Name=59
+Add Net: Net with name "59" already exists
+Added Pin To Net: NetName=60 Pin=IC8-3
+Added Net: Name=60
+Add Net: Net with name "60" already exists
+Added Pin To Net: NetName=61 Pin=Mat1-61
+Added Net: Name=61
+Add Net: Net with name "61" already exists
+Added Pin To Net: NetName=62 Pin=Mat1-62
+Added Net: Name=62
+Add Net: Net with name "62" already exists
+Added Pin To Net: NetName=63 Pin=IC8-6
+Added Net: Name=63
+Add Net: Net with name "63" already exists
+Added Pin To Net: NetName=64 Pin=Mat1-64
+Added Net: Name=64
+Add Net: Net with name "64" already exists
+Added Pin To Net: NetName=65 Pin=IC9-15
+Added Net: Name=65
+Add Net: Net with name "65" already exists
+Added Pin To Net: NetName=66 Pin=Mat1-66
+Added Net: Name=66
+Add Net: Net with name "66" already exists
+Added Pin To Net: NetName=67 Pin=Mat1-67
+Added Net: Name=67
+Add Net: Net with name "67" already exists
+Added Pin To Net: NetName=68 Pin=Mat1-68
+Added Net: Name=68
+Add Net: Net with name "68" already exists
+Added Pin To Net: NetName=69 Pin=IC9-4
+Added Net: Name=69
+Add Net: Net with name "69" already exists
+Added Pin To Net: NetName=70 Pin=IC9-5
+Added Net: Name=70
+Add Net: Net with name "70" already exists
+Added Pin To Net: NetName=71 Pin=Mat1-71
+Added Net: Name=71
+Add Net: Net with name "71" already exists
+Added Pin To Net: NetName=72 Pin=IC9-7
+Added Net: Name=72
+Add Net: Net with name "72" already exists
+Added Pin To Net: NetName=DAT Pin=IC1-14
+Added Pin To Net: NetName=DAT Pin=U1-12
+Added Net: Name=DAT
+Added Pin To Net: NetName=GND Pin=BT1-4
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Net: Name=GND
+Added Pin To Net: NetName=LAT Pin=IC1-12
+Added Pin To Net: NetName=LAT Pin=IC2-12
+Added Pin To Net: NetName=LAT Pin=IC3-12
+Added Pin To Net: NetName=LAT Pin=IC4-12
+Added Pin To Net: NetName=LAT Pin=IC5-12
+Added Pin To Net: NetName=LAT Pin=IC6-12
+Added Pin To Net: NetName=LAT Pin=IC7-12
+Added Pin To Net: NetName=LAT Pin=IC8-12
+Added Pin To Net: NetName=LAT Pin=IC9-12
+Added Pin To Net: NetName=LAT Pin=U1-11
+Added Net: Name=LAT
+Added Pin To Net: NetName=NetBT1_5 Pin=BT1-5
+Added Pin To Net: NetName=NetBT1_5 Pin=U1-40
+Added Net: Name=NetBT1_5
+Added Pin To Net: NetName=NetIC1_8 Pin=IC1-8
+Added Pin To Net: NetName=NetIC1_8 Pin=IC1-13
+Added Pin To Net: NetName=NetIC1_8 Pin=IC2-8
+Added Pin To Net: NetName=NetIC1_8 Pin=IC2-13
+Added Pin To Net: NetName=NetIC1_8 Pin=IC3-8
+Added Pin To Net: NetName=NetIC1_8 Pin=IC3-13
+Added Pin To Net: NetName=NetIC1_8 Pin=IC4-8
+Added Pin To Net: NetName=NetIC1_8 Pin=IC4-13
+Added Pin To Net: NetName=NetIC1_8 Pin=IC5-8
+Added Pin To Net: NetName=NetIC1_8 Pin=IC5-13
+Added Pin To Net: NetName=NetIC1_8 Pin=IC6-8
+Added Pin To Net: NetName=NetIC1_8 Pin=IC6-13
+Added Pin To Net: NetName=NetIC1_8 Pin=IC7-8
+Added Pin To Net: NetName=NetIC1_8 Pin=IC7-13
+Added Pin To Net: NetName=NetIC1_8 Pin=IC8-8
+Added Pin To Net: NetName=NetIC1_8 Pin=IC8-13
+Added Net: Name=NetIC1_8
+Added Pin To Net: NetName=NetIC1_9 Pin=IC1-9
+Added Pin To Net: NetName=NetIC1_9 Pin=IC2-14
+Added Net: Name=NetIC1_9
+Added Pin To Net: NetName=NetIC2_9 Pin=IC2-9
+Added Pin To Net: NetName=NetIC2_9 Pin=IC3-14
+Added Net: Name=NetIC2_9
+Added Pin To Net: NetName=NetIC3_9 Pin=IC3-9
+Added Pin To Net: NetName=NetIC3_9 Pin=IC4-14
+Added Net: Name=NetIC3_9
+Added Pin To Net: NetName=NetIC4_9 Pin=IC4-9
+Added Pin To Net: NetName=NetIC4_9 Pin=IC5-14
+Added Net: Name=NetIC4_9
+Added Pin To Net: NetName=NetIC5_9 Pin=IC5-9
+Added Pin To Net: NetName=NetIC5_9 Pin=IC6-14
+Added Net: Name=NetIC5_9
+Added Pin To Net: NetName=NetIC6_9 Pin=IC6-9
+Added Pin To Net: NetName=NetIC6_9 Pin=IC7-14
+Added Net: Name=NetIC6_9
+Added Pin To Net: NetName=NetIC7_9 Pin=IC7-9
+Added Pin To Net: NetName=NetIC7_9 Pin=IC8-14
+Added Net: Name=NetIC7_9
+Added Pin To Net: NetName=NetIC8_9 Pin=IC8-9
+Added Pin To Net: NetName=NetIC8_9 Pin=IC9-14
+Added Net: Name=NetIC8_9
+Added Pin To Net: NetName=RX Pin=BT1-2
+Added Pin To Net: NetName=RX Pin=U1-26
+Added Net: Name=RX
+Added Pin To Net: NetName=SHIFT Pin=IC1-11
+Added Pin To Net: NetName=SHIFT Pin=IC2-11
+Added Pin To Net: NetName=SHIFT Pin=IC3-11
+Added Pin To Net: NetName=SHIFT Pin=IC4-11
+Added Pin To Net: NetName=SHIFT Pin=IC5-11
+Added Pin To Net: NetName=SHIFT Pin=IC6-11
+Added Pin To Net: NetName=SHIFT Pin=IC7-11
+Added Pin To Net: NetName=SHIFT Pin=IC8-11
+Added Pin To Net: NetName=SHIFT Pin=IC9-11
+Added Pin To Net: NetName=SHIFT Pin=U1-10
+Added Net: Name=SHIFT
+Added Pin To Net: NetName=TX Pin=BT1-3
+Added Pin To Net: NetName=TX Pin=U1-27
+Added Net: Name=TX
+Added Class: Name=Power
+Added Class: Name=Shift
+Added Class: Name=Signal
+Added Room: Name=Power
+Added Room: Name=Shift
+Added Room: Name=Signal

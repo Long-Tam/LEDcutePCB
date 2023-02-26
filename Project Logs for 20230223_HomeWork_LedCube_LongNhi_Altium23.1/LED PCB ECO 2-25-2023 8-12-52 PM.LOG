@@ -1,0 +1,161 @@
+Removed Pin From Net: NetName=65 Pin=Mat?-65
+Removed Pin From Net: NetName=66 Pin=Mat?-66
+Removed Pin From Net: NetName=67 Pin=Mat?-67
+Removed Pin From Net: NetName=68 Pin=Mat?-68
+Removed Pin From Net: NetName=69 Pin=Mat?-69
+Removed Pin From Net: NetName=70 Pin=Mat?-70
+Removed Pin From Net: NetName=71 Pin=Mat?-71
+Removed Pin From Net: NetName=72 Pin=Mat?-72
+Change Component Designator: OldDesignator=Mat? NewDesignator=Mat1
+Added Component: Designator= 1(QTO-92)
+Added Component: Designator=Q1(QTO-92)
+Added Component: Designator=Q2(QTO-92)
+Added Component: Designator=Q3(QTO-92)
+Added Component: Designator=Q4(QTO-92)
+Added Component: Designator=Q5(QTO-92)
+Added Component: Designator=Q6(QTO-92)
+Added Component: Designator=Q7(QTO-92)
+Added Component: Designator=R1(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin= 1-2
+Added Pin To Net: NetName=+5 Pin=Q1-2
+Added Pin To Net: NetName=+5 Pin=Q2-2
+Added Pin To Net: NetName=+5 Pin=Q3-2
+Added Pin To Net: NetName=+5 Pin=Q4-2
+Added Pin To Net: NetName=+5 Pin=Q5-2
+Added Pin To Net: NetName=+5 Pin=Q6-2
+Added Pin To Net: NetName=+5 Pin=Q7-2
+Added Pin To Net: NetName=72 Pin=R6-1
+Added Pin To Net: NetName=68 Pin=R9-1
+Added Pin To Net: NetName=71 Pin=R11-1
+Added Pin To Net: NetName=67 Pin=R12-1
+Added Pin To Net: NetName=70 Pin=R13-1
+Added Pin To Net: NetName=66 Pin=R14-1
+Added Pin To Net: NetName=69 Pin=R15-1
+Added Pin To Net: NetName=65 Pin=R16-1
+Added Pin To Net: NetName=G1 Pin=Q6-1
+Added Pin To Net: NetName=G1 Pin=R4-1
+Added Net: Name=G1
+Added Pin To Net: NetName=G2 Pin=Q4-1
+Added Pin To Net: NetName=G2 Pin=R3-1
+Added Net: Name=G2
+Added Pin To Net: NetName=G3 Pin=Q2-1
+Added Pin To Net: NetName=G3 Pin=R2-1
+Added Net: Name=G3
+Added Pin To Net: NetName=G4 Pin=Q1-1
+Added Pin To Net: NetName=G4 Pin=R1-1
+Added Net: Name=G4
+Added Pin To Net: NetName=Net 1_1 Pin= 1-1
+Added Pin To Net: NetName=Net 1_1 Pin=R5-1
+Added Net: Name=Net 1_1
+Added Pin To Net: NetName=Net 1_3 Pin= 1-3
+Added Pin To Net: NetName=Net 1_3 Pin=R9-2
+Added Net: Name=Net 1_3
+Added Pin To Net: NetName=NetMat1_65 Pin=Mat1-65
+Added Pin To Net: NetName=NetMat1_65 Pin=R10-2
+Added Net: Name=NetMat1_65
+Added Pin To Net: NetName=NetMat1_66 Pin=Mat1-66
+Added Pin To Net: NetName=NetMat1_66 Pin=R8-2
+Added Net: Name=NetMat1_66
+Added Pin To Net: NetName=NetMat1_67 Pin=Mat1-67
+Added Pin To Net: NetName=NetMat1_67 Pin=R7-2
+Added Net: Name=NetMat1_67
+Added Pin To Net: NetName=NetMat1_68 Pin=Mat1-68
+Added Pin To Net: NetName=NetMat1_68 Pin=R5-2
+Added Net: Name=NetMat1_68
+Added Pin To Net: NetName=NetMat1_69 Pin=Mat1-69
+Added Pin To Net: NetName=NetMat1_69 Pin=R4-2
+Added Net: Name=NetMat1_69
+Added Pin To Net: NetName=NetMat1_70 Pin=Mat1-70
+Added Pin To Net: NetName=NetMat1_70 Pin=R3-2
+Added Net: Name=NetMat1_70
+Added Pin To Net: NetName=NetMat1_71 Pin=Mat1-71
+Added Pin To Net: NetName=NetMat1_71 Pin=R2-2
+Added Net: Name=NetMat1_71
+Added Pin To Net: NetName=NetMat1_72 Pin=Mat1-72
+Added Pin To Net: NetName=NetMat1_72 Pin=R1-2
+Added Net: Name=NetMat1_72
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R6-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R11-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R7-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R12-2
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R13-2
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R8-1
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R14-2
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=R15-2
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R10-1
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-3
+Added Pin To Net: NetName=NetQ7_3 Pin=R16-2
+Added Net: Name=NetQ7_3
+Added Member To Class: ClassName=Designator Member=Component  1 C1815
+Added Member To Class: ClassName=Designator Member=Component Q1 C1815
+Added Member To Class: ClassName=Designator Member=Component Q2 C1815
+Added Member To Class: ClassName=Designator Member=Component Q3 C1815
+Added Member To Class: ClassName=Designator Member=Component Q4 C1815
+Added Member To Class: ClassName=Designator Member=Component Q5 C1815
+Added Member To Class: ClassName=Designator Member=Component Q6 C1815
+Added Member To Class: ClassName=Designator Member=Component Q7 C1815
+Added Member To Class: ClassName=Designator Member=Component R1 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R2 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R3 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R4 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R5 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R6 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R7 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R8 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R9 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R10 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R11 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R12 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R13 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R14 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R15 RESISTOR
+Added Member To Class: ClassName=Designator Member=Component R16 RESISTOR

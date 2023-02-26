@@ -1,0 +1,306 @@
+Added Component: Designator=BT1(HC-05)
+Added Component: Designator=MAT1(PCBComponent_1 - duplicate)
+Added Component: Designator=P1(DOMINO 2- 5mm)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(QTO-92)
+Added Component: Designator=Q2(QTO-92)
+Added Component: Designator=Q3(QTO-92)
+Added Component: Designator=Q4(QTO-92)
+Added Component: Designator=Q5(QTO-92)
+Added Component: Designator=R1(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES 1/2W)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DIP16/W0.3)
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/74hc595n-ic-shift-register-1-element-8-bit-tri-state-16-dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Tri-State"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(BluePill)
+Added Component: Designator=U3(DIP16/W0.3)
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/74hc595n-ic-shift-register-1-element-8-bit-tri-state-16-dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Tri-State"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=U4(DIP16/W0.3)
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/74hc595n-ic-shift-register-1-element-8-bit-tri-state-16-dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Tri-State"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Component: Designator=U5(DIP16/W0.3)
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/74hc595n-ic-shift-register-1-element-8-bit-tri-state-16-dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Serial to Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Shift Register"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Tri-State"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP (0.300", 7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2V ~ 6V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLK Pin=U1-11
+Added Pin To Net: NetName=CLK Pin=U2-10
+Added Pin To Net: NetName=CLK Pin=U3-11
+Added Pin To Net: NetName=CLK Pin=U4-11
+Added Pin To Net: NetName=CLK Pin=U5-11
+Added Net: Name=CLK
+Added Pin To Net: NetName=GND Pin=BT1-3
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Net: Name=GND
+Added Pin To Net: NetName=LAT Pin=U1-12
+Added Pin To Net: NetName=LAT Pin=U2-11
+Added Pin To Net: NetName=LAT Pin=U3-12
+Added Pin To Net: NetName=LAT Pin=U4-12
+Added Pin To Net: NetName=LAT Pin=U5-12
+Added Net: Name=LAT
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=U2-38
+Added Net: Name=NetBT1_2
+Added Pin To Net: NetName=NetBT1_4 Pin=BT1-4
+Added Pin To Net: NetName=NetBT1_4 Pin=U2-27
+Added Net: Name=NetBT1_4
+Added Pin To Net: NetName=NetBT1_5 Pin=BT1-5
+Added Pin To Net: NetName=NetBT1_5 Pin=U2-26
+Added Net: Name=NetBT1_5
+Added Pin To Net: NetName=NetMAT1_1 Pin=MAT1-1
+Added Pin To Net: NetName=NetMAT1_1 Pin=U1-15
+Added Net: Name=NetMAT1_1
+Added Pin To Net: NetName=NetMAT1_2 Pin=MAT1-2
+Added Pin To Net: NetName=NetMAT1_2 Pin=U1-1
+Added Net: Name=NetMAT1_2
+Added Pin To Net: NetName=NetMAT1_3 Pin=MAT1-3
+Added Pin To Net: NetName=NetMAT1_3 Pin=U1-2
+Added Net: Name=NetMAT1_3
+Added Pin To Net: NetName=NetMAT1_4 Pin=MAT1-4
+Added Pin To Net: NetName=NetMAT1_4 Pin=U1-3
+Added Net: Name=NetMAT1_4
+Added Pin To Net: NetName=NetMAT1_5 Pin=MAT1-5
+Added Pin To Net: NetName=NetMAT1_5 Pin=U1-4
+Added Net: Name=NetMAT1_5
+Added Pin To Net: NetName=NetMAT1_6 Pin=MAT1-6
+Added Pin To Net: NetName=NetMAT1_6 Pin=U1-5
+Added Net: Name=NetMAT1_6
+Added Pin To Net: NetName=NetMAT1_7 Pin=MAT1-7
+Added Pin To Net: NetName=NetMAT1_7 Pin=U1-6
+Added Net: Name=NetMAT1_7
+Added Pin To Net: NetName=NetMAT1_8 Pin=MAT1-8
+Added Pin To Net: NetName=NetMAT1_8 Pin=U1-7
+Added Net: Name=NetMAT1_8
+Added Pin To Net: NetName=NetMAT1_9 Pin=MAT1-9
+Added Pin To Net: NetName=NetMAT1_9 Pin=U3-15
+Added Net: Name=NetMAT1_9
+Added Pin To Net: NetName=NetMAT1_10 Pin=MAT1-10
+Added Pin To Net: NetName=NetMAT1_10 Pin=U3-1
+Added Net: Name=NetMAT1_10
+Added Pin To Net: NetName=NetMAT1_11 Pin=MAT1-11
+Added Pin To Net: NetName=NetMAT1_11 Pin=U3-2
+Added Net: Name=NetMAT1_11
+Added Pin To Net: NetName=NetMAT1_12 Pin=MAT1-12
+Added Pin To Net: NetName=NetMAT1_12 Pin=U3-3
+Added Net: Name=NetMAT1_12
+Added Pin To Net: NetName=NetMAT1_13 Pin=MAT1-13
+Added Pin To Net: NetName=NetMAT1_13 Pin=U3-4
+Added Net: Name=NetMAT1_13
+Added Pin To Net: NetName=NetMAT1_14 Pin=MAT1-14
+Added Pin To Net: NetName=NetMAT1_14 Pin=U3-5
+Added Net: Name=NetMAT1_14
+Added Pin To Net: NetName=NetMAT1_15 Pin=MAT1-15
+Added Pin To Net: NetName=NetMAT1_15 Pin=U3-6
+Added Net: Name=NetMAT1_15
+Added Pin To Net: NetName=NetMAT1_16 Pin=MAT1-16
+Added Pin To Net: NetName=NetMAT1_16 Pin=U3-7
+Added Net: Name=NetMAT1_16
+Added Pin To Net: NetName=NetMAT1_17 Pin=MAT1-17
+Added Pin To Net: NetName=NetMAT1_17 Pin=U4-15
+Added Net: Name=NetMAT1_17
+Added Pin To Net: NetName=NetMAT1_18 Pin=MAT1-18
+Added Pin To Net: NetName=NetMAT1_18 Pin=U4-1
+Added Net: Name=NetMAT1_18
+Added Pin To Net: NetName=NetMAT1_19 Pin=MAT1-19
+Added Pin To Net: NetName=NetMAT1_19 Pin=U4-2
+Added Net: Name=NetMAT1_19
+Added Pin To Net: NetName=NetMAT1_20 Pin=MAT1-20
+Added Pin To Net: NetName=NetMAT1_20 Pin=U4-3
+Added Net: Name=NetMAT1_20
+Added Pin To Net: NetName=NetMAT1_21 Pin=MAT1-21
+Added Pin To Net: NetName=NetMAT1_21 Pin=U4-4
+Added Net: Name=NetMAT1_21
+Added Pin To Net: NetName=NetMAT1_22 Pin=MAT1-22
+Added Pin To Net: NetName=NetMAT1_22 Pin=U4-5
+Added Net: Name=NetMAT1_22
+Added Pin To Net: NetName=NetMAT1_23 Pin=MAT1-23
+Added Pin To Net: NetName=NetMAT1_23 Pin=U4-6
+Added Net: Name=NetMAT1_23
+Added Pin To Net: NetName=NetMAT1_24 Pin=MAT1-24
+Added Pin To Net: NetName=NetMAT1_24 Pin=U4-7
+Added Net: Name=NetMAT1_24
+Added Pin To Net: NetName=NetMAT1_25 Pin=MAT1-25
+Added Pin To Net: NetName=NetMAT1_25 Pin=U5-15
+Added Net: Name=NetMAT1_25
+Added Pin To Net: NetName=NetMAT1_26 Pin=MAT1-26
+Added Pin To Net: NetName=NetMAT1_26 Pin=R1-2
+Added Net: Name=NetMAT1_26
+Added Pin To Net: NetName=NetMAT1_27 Pin=MAT1-27
+Added Pin To Net: NetName=NetMAT1_27 Pin=R2-2
+Added Net: Name=NetMAT1_27
+Added Pin To Net: NetName=NetMAT1_28 Pin=MAT1-28
+Added Pin To Net: NetName=NetMAT1_28 Pin=R3-2
+Added Net: Name=NetMAT1_28
+Added Pin To Net: NetName=NetMAT1_29 Pin=MAT1-29
+Added Pin To Net: NetName=NetMAT1_29 Pin=R4-2
+Added Net: Name=NetMAT1_29
+Added Pin To Net: NetName=NetMAT1_30 Pin=MAT1-30
+Added Pin To Net: NetName=NetMAT1_30 Pin=R5-2
+Added Net: Name=NetMAT1_30
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R6-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R2-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R7-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R3-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R8-2
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R4-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R9-2
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R5-1
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R10-2
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U5-3
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U5-4
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U5-5
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U5-6
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U5-7
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Pin To Net: NetName=NetU1_9 Pin=U3-14
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Pin To Net: NetName=NetU1_14 Pin=U2-12
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=NetU3_9 Pin=U3-9
+Added Pin To Net: NetName=NetU3_9 Pin=U4-14
+Added Net: Name=NetU3_9
+Added Pin To Net: NetName=NetU4_9 Pin=U4-9
+Added Pin To Net: NetName=NetU4_9 Pin=U5-14
+Added Net: Name=NetU4_9
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=U1-10
+Added Pin To Net: NetName=VCC Pin=U1-16
+Added Pin To Net: NetName=VCC Pin=U3-10
+Added Pin To Net: NetName=VCC Pin=U3-16
+Added Pin To Net: NetName=VCC Pin=U4-10
+Added Pin To Net: NetName=VCC Pin=U4-16
+Added Pin To Net: NetName=VCC Pin=U5-10
+Added Pin To Net: NetName=VCC Pin=U5-16
+Added Net: Name=VCC
+Added Member To Class: ClassName=LedCubeSche Member=Component BT1 HC-05
+Added Member To Class: ClassName=LedCubeSche Member=Component MAT1 LED CUBE
+Added Member To Class: ClassName=LedCubeSche Member=Component P1 Domino 2
+Added Member To Class: ClassName=LedCubeSche Member=Component Q1 A1015
+Added Member To Class: ClassName=LedCubeSche Member=Component Q2 A1015
+Added Member To Class: ClassName=LedCubeSche Member=Component Q3 A1015
+Added Member To Class: ClassName=LedCubeSche Member=Component Q4 A1015
+Added Member To Class: ClassName=LedCubeSche Member=Component Q5 A1015
+Added Member To Class: ClassName=LedCubeSche Member=Component R1 RESISTOR
+Added Member To Class: ClassName=LedCubeSche Member=Component R2 RESISTOR
+Added Member To Class: ClassName=LedCubeSche Member=Component R3 RESISTOR
+Added Member To Class: ClassName=LedCubeSche Member=Component R4 RESISTOR
+Added Member To Class: ClassName=LedCubeSche Member=Component R5 RESISTOR
+Added Member To Class: ClassName=LedCubeSche Member=Component R6 RESISTOR
+Added Member To Class: ClassName=LedCubeSche Member=Component R7 RESISTOR
+Added Member To Class: ClassName=LedCubeSche Member=Component R8 RESISTOR
+Added Member To Class: ClassName=LedCubeSche Member=Component R9 RESISTOR
+Added Member To Class: ClassName=LedCubeSche Member=Component R10 RESISTOR
+Added Member To Class: ClassName=LedCubeSche Member=Component U1 CD74HC595E
+Added Member To Class: ClassName=LedCubeSche Member=Component U2 BluePill
+Added Member To Class: ClassName=LedCubeSche Member=Component U3 CD74HC595E
+Added Member To Class: ClassName=LedCubeSche Member=Component U4 CD74HC595E
+Added Member To Class: ClassName=LedCubeSche Member=Component U5 CD74HC595E
+Added Room: Name=LedCubeSche

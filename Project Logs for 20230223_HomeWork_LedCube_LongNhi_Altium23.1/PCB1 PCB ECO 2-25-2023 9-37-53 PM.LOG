@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetIC1_8 Pin=IC9-8
+Added Pin To Net: NetName=+5 Pin=IC9-10
+Added Pin To Net: NetName=NetIC1_8 Pin=IC9-13
+Added Pin To Net: NetName=+5 Pin=IC9-16
+Added Room: Name=Designator
+Added Room: Name=Power
+Added Room: Name=Shift
+Added Room: Name=Signal

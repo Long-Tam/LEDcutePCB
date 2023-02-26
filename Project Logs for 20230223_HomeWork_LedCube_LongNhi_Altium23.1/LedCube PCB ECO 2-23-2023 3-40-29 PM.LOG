@@ -1,0 +1,23 @@
+Change Physical Footprint: Designator=BT1 Old Footprint=HC-05 New Footprint=HC-05
+Change Physical Footprint: Designator=MAT1 Old Footprint=PCBComponent_1 - duplicate New Footprint=PCBComponent_1 - duplicate
+Change Physical Footprint: Designator=P1 Old Footprint=DOMINO 2- 5mm New Footprint=DOMINO 2- 5mm
+Change Physical Footprint: Designator=Q1 Old Footprint=QTO-92 New Footprint=QTO-92
+Change Physical Footprint: Designator=Q2 Old Footprint=QTO-92 New Footprint=QTO-92
+Change Physical Footprint: Designator=Q3 Old Footprint=QTO-92 New Footprint=QTO-92
+Change Physical Footprint: Designator=Q4 Old Footprint=QTO-92 New Footprint=QTO-92
+Change Physical Footprint: Designator=Q5 Old Footprint=QTO-92 New Footprint=QTO-92
+Change Physical Footprint: Designator=R1 Old Footprint=RES 1/2W New Footprint=RES 1/2W
+Change Physical Footprint: Designator=R2 Old Footprint=RES 1/2W New Footprint=RES 1/2W
+Change Physical Footprint: Designator=R3 Old Footprint=RES 1/2W New Footprint=RES 1/2W
+Change Physical Footprint: Designator=R4 Old Footprint=RES 1/2W New Footprint=RES 1/2W
+Change Physical Footprint: Designator=R5 Old Footprint=RES 1/2W New Footprint=RES 1/2W
+Change Physical Footprint: Designator=R6 Old Footprint=RES 1/2W New Footprint=RES 1/2W
+Change Physical Footprint: Designator=R7 Old Footprint=RES 1/2W New Footprint=RES 1/2W
+Change Physical Footprint: Designator=R8 Old Footprint=RES 1/2W New Footprint=RES 1/2W
+Change Physical Footprint: Designator=R9 Old Footprint=RES 1/2W New Footprint=RES 1/2W
+Change Physical Footprint: Designator=R10 Old Footprint=RES 1/2W New Footprint=RES 1/2W
+Change Physical Footprint: Designator=U1 Old Footprint=DIP16/W0.3 New Footprint=DIP16/W0.3
+Change Physical Footprint: Designator=U2 Old Footprint=BluePill New Footprint=BluePill
+Change Physical Footprint: Designator=U3 Old Footprint=DIP16/W0.3 New Footprint=DIP16/W0.3
+Change Physical Footprint: Designator=U4 Old Footprint=DIP16/W0.3 New Footprint=DIP16/W0.3
+Change Physical Footprint: Designator=U5 Old Footprint=DIP16/W0.3 New Footprint=DIP16/W0.3
